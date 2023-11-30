@@ -10,3 +10,5 @@ for (int i = 0; i <= numbers.Length; i++)
 {
     sum += numbers[i];
 }
+
+Console.WriteLine("Sum: " + sum);
